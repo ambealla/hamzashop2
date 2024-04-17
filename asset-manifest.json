@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hamzashop2/static/css/main.ed94dbfd.css",
-    "main.js": "/hamzashop2/static/js/main.90b186c8.js",
+    "main.js": "/hamzashop2/static/js/main.70ef825b.js",
     "static/media/yed.jpg": "/hamzashop2/static/media/yed.e74cbd142f548b3663b3.jpg",
     "static/media/yed2.jpg": "/hamzashop2/static/media/yed2.35dce24a9aa869080785.jpg",
     "static/media/aa.jpg": "/hamzashop2/static/media/aa.e0c728cedf153a7c3cfb.jpg",
@@ -25,10 +25,10 @@
     "static/media/laivraison.svg": "/hamzashop2/static/media/laivraison.1919ca1e6945abb99463f23620cf25a4.svg",
     "index.html": "/hamzashop2/index.html",
     "main.ed94dbfd.css.map": "/hamzashop2/static/css/main.ed94dbfd.css.map",
-    "main.90b186c8.js.map": "/hamzashop2/static/js/main.90b186c8.js.map"
+    "main.70ef825b.js.map": "/hamzashop2/static/js/main.70ef825b.js.map"
   },
   "entrypoints": [
     "static/css/main.ed94dbfd.css",
-    "static/js/main.90b186c8.js"
+    "static/js/main.70ef825b.js"
   ]
 }
