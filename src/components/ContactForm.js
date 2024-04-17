@@ -59,7 +59,7 @@ const ContactForm = () => {
         <Col md={6} className="mx-auto">
           <Form ref={form} onSubmit={sendEmail}>
             <Form.Group className ="m-4" controlId="formName">
-              <Form.Label>votre Nom</Form.Label>
+              <Form.Label>Nom</Form.Label>
               <Form.Control
                 type="text"
                 name="from_name"
@@ -96,7 +96,7 @@ const ContactForm = () => {
               />
             </Form.Group>
             <Form.Group className ="m-4" controlId="formPhone">
-              <Form.Label>Votre ville</Form.Label>
+              <Form.Label>la ville</Form.Label>
               <Form.Control
                 type="text"
                 name="from_email"
@@ -109,7 +109,7 @@ const ContactForm = () => {
    
             <div style={{width: "100%", display:"flex",margin:"20px",alignItems: "Center"}}>
               <Button style={{backgroundColor:"#198754"}} type="submit" onSubmit={sendEmail}> 
-              Submit
+              Commander
             </Button></div>
           </Form>
         </Col>

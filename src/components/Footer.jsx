@@ -24,7 +24,7 @@ export default function Footer() {
 
                 <div id="footer-about-phone mb-1">+212 656-676532</div>
 
-                <div id="footer-about-email mb-0">contact@hamza.com</div>
+                <div id="footer-about-email mb-0">contact@sa3astore.shop</div>
               </div>
             </div>
           </Col>
@@ -44,7 +44,7 @@ export default function Footer() {
           </Col>
         </Row>
         <p className="py-4">
-          © 2024 Hamza Ait bihi .
+          © 2024 Sa3aStore .
         </p>
       </Container>
     </div>

@@ -10,14 +10,20 @@ import ModalContact from "./components/ModalContact";
 import Widget from "./components/benefited/Widget";
 import Widget2 from "./components/benefited/Widget2";
 import ContactForm from "./components/ContactForm";
+import { Button, Image } from "react-bootstrap";
 
 export default function Principal() {
+  const handleWhatsAppClick = () => {
+    // Replace `YOUR_PHONE_NUMBER` with your WhatsApp phone number
+    window.open(`https://wa.me/212656676532`, '_blank');
+  };
   return (
     <>
       <div className="bg-light">
         <Emphasis />
         <Menu />
       </div>
+
       <Widget2 />
            
       <ListProducts />
